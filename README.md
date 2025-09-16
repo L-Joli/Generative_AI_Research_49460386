@@ -4,7 +4,7 @@ This repository contains materials and analyses related to the Generative AI res
 
 ## Repository Structure  
 
-### `Additional_Materials/`  
+### `Additional_Materials/`
 Contains images, media relevant to the research.  
 
 ### `Drafts_and_Reports/`  
@@ -20,3 +20,6 @@ Contains all qualitative analyses, such as interview notes and insights.
 Includes all quantitative analyses, datasets, and results.  
 
 > ⚠️ **Important:** Do not modify interview results. These files contain personal data and must remain unchanged.  
+
+## Contributing  
+Future collaborators are welcome to contribute by opening a pull request with clear descriptions of changes, while respecting data privacy and not altering protected files. 
